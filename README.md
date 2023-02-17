@@ -3,8 +3,12 @@
 Divisible by X and Y
 This is a solution to the "Divisible by X and Y" problem on Codewars, written in Ruby.
 
-Problem Description
+# Problem Description
 The problem requires you to write a function that checks if a given number n is divisible by two other given numbers x and y. All inputs are positive, non-zero numbers.
+
+# github repo
+https://github.com/KabiruH/codewar-1
+
 
 # Solution
 The solution provides two ways of solving the problem, one using the if statement and the other using the ternary operator.
